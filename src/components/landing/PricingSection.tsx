@@ -4,7 +4,7 @@ import { ButtonLink } from "@/components/ui/Button";
 const plans = [
   {
     name: "Quick Landing",
-    price: "từ 2.000.000đ",
+    price: "từ 399k",
     time: "1–3 ngày",
     desc: "Phù hợp cá nhân / shop / dịch vụ nhỏ.",
     features: [
